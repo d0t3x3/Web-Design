@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.main {
+	width: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.main li {
+	list-style: none;
+	padding: 10%;
+}
+
+.main li a {
+	text-decoration: none;
+}
+
+.logo {
+	display: flex;
+}
+
+.logo img {
+	border: 1px;
+	border-radius: 69px;
+	border-color: blue;
+}
